@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xzerios&label=Profile%20views&color=0e75b6&style=flat" alt="xzerios" /> </p>
 
-- 🔭 I’m currently working on [xerRedeemer - The Greatest Promo Redeemer](https://github.com/xzerios/discord-promo-redeemer)
+-  I’m currently working on [xerRedeemer - The Greatest Promo Redeemer](https://github.com/xzerios/discord-promo-redeemer)
 
-- 🌱 I’m currently learning **NodeJS**
+- 📚 I’m currently learning **NodeJS**
 
 - 🤝 I’m looking to collaborate on [ReferCord - Taking Invite Logging Into The Now](https://github.com/xzerios/ReferCord)
 
